@@ -1,0 +1,7 @@
+/** @format */
+define(["require", "exports"], function (require, exports) {
+    "use strict";
+    exports.__esModule = true;
+    exports.name = void 0;
+    exports.name = "taguchi";
+});
